@@ -24,7 +24,7 @@ prompt = st.text_input("Please enter your query?", max_chars=2000)
 prompt = prompt.strip()
 
 # Display a primary button for submission
-submit_button = st.button("Submit", type="primary")
+submit_button = st.button("Submit11", type="primary")
 
 # Display a button to end the session
 end_session_button = st.button("End Session")
